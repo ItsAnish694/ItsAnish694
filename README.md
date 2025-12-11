@@ -22,17 +22,6 @@ I build a variety of projects, including:
 
 ---
 
-## 📌 Featured Projects
-- **Snake Game** – Classic game built with JavaScript  
-- **Game of Life** – Conway’s famous simulation in JS  
-- **QR Code Generator & Scanner** – Practical utility tool  
-- **Auth Role Based Access API** – Secure backend authentication  
-- **Short The URL** – Simple, fast URL shortener  
-
-> *(Check out my repositories for more projects!)*
-
----
-
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/anish-dhakal-2bb248357)  
 - [Facebook](https://www.facebook.com/Anish.Dhakal.210)  
